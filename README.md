@@ -14,9 +14,9 @@
 
 <div align="center">
     <h3 align="center" id="desktop" style="font-weight: bold;">Desktop View 💻</h3>
-    <img src="./assets/Desktop-view.PNG" alt="Image Example" width="1000px">
+    <img src="./assets/DesktopView.PNG" alt="Image Example" width="1000px">
     <h3 align="center" id="mobile" style="font-weight: bold;">Mobile View 📱</h3>
-    <img src="./assets/Mobile-View.PNG" alt="Image Example" >
+    <img src="./assets/MobileView.PNG" alt="Image Example" >
 
 </div>
 
